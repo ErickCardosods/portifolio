@@ -1,1 +1,57 @@
-
+.me{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colunas de largura igual */
+    gap: 20px;
+}
+.habilities{
+    text-align: left;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.318);
+    border-radius: 100px;
+}
+.paragraph{
+    background-color: rgb(0, 0, 108);
+    color: whitesmoke;
+    border-radius: 2em;
+    padding: 4px;
+    padding-left: 1em;
+}
+.title{
+    font-size: 50px;
+    color: whitesmoke;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.picetitle{
+    padding-bottom: 2em;
+    justify-items: center;
+}
+.top{
+    background-image: url("https://wallpapercave.com/wp/wp14067917.jpg");
+    /*background-color: rgb(0, 15, 69);*/
+    padding: 2em;
+    background-size: 100%;
+}
+.items{
+    padding-left: 15px;
+}
+.avatar-border{
+    border-radius: 100%;
+    background-color: whitesmoke;
+    width: 160px;
+    height: 160px;
+}
+.pic{
+    justify-content: center;
+    margin-top: 5px;
+}
+main{
+    margin: 2.5em;
+}
+.main-title{
+    font-size: 30px;
+    padding-bottom: .5em;
+}
