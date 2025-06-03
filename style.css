@@ -54,8 +54,6 @@ p{
 main{
     margin-top: 2em;
     padding: 2em;
-    background-image: url("https://wallpapercave.com/wp/wp14067917.jpg");
-    filter: grayscale(50%);
 }
 .main-title{
     font-size: 30px;
