@@ -54,7 +54,7 @@ p{
 main{
     margin-top: 2em;
     padding: 2em;
-    background-image: url("https://wallpapercave.com/wp/wp14067917.jpg") grayscale(50%);
+    background-image: url("https://wallpapercave.com/wp/wp14067917.jpg");
 }
 .main-title{
     font-size: 30px;
