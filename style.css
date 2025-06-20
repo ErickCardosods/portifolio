@@ -79,6 +79,18 @@ main{
     padding-top: 5.8em;
     padding-bottom: 5.8em;
 }
+footer{
+    background-color: rgb(1, 0, 18);
+    color: whitesmoke;
+    padding: 2em;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke
+}
+.footer-a:hover{
+    text-decoration: underline;
+}
 .door{
     padding-top: 2.5em;
     padding-bottom: 2.5em;
