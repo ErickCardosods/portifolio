@@ -83,15 +83,3 @@ main{
     padding-top: 2.5em;
     padding-bottom: 2.5em;
 }
-footer{
-    background-color: rgb(1, 0, 18);
-    color: whitesmoke;
-    padding: 2em;
-}
-a{
-    text-decoration: none;
-    color: whitesmoke
-}
-.footer-a:hover{
-    text-decoration: underline;
-}
